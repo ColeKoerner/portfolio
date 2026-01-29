@@ -80,10 +80,13 @@ function App() {
             <div className="max-w-4xl mx-auto space-y-12">
               <div className="text-center space-y-4">
                 <h1 className="text-5xl font-bold bg-linear-to-r from-gray-900 via-gray-800 to-gray-900 bg-clip-text text-transparent">
-                  My Resume
+                  Cole Koerner
                 </h1>
                 <p className="text-gray-600 text-lg">
-                  Professional Experience & Education
+                  Software Engineering Senior Advisor
+                </p>
+                <p className="text-gray-600 text-lg">
+                  BSc Computer Science at Wichita State University
                 </p>
                 <Separator className="mt-8" />
               </div>
